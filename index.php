@@ -6,14 +6,14 @@ session_start();
 
   <head>
     <title> Home | Le Cafe' </title>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CFDB92WQEC"></script>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EC8DWSNYY0"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-CFDB92WQEC');
+  gtag('config', 'G-EC8DWSNYY0');
 </script>
   </head>
 
